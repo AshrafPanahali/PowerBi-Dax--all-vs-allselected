@@ -19,3 +19,6 @@ What this example covers
    •	ALL → removes filters and forces a global total
  
    •	ALLSELECTED → respects user selections and controls only visual context
+
+## Dashboard Preview  
+![Dashboard](AllvsAllselected.jpg)
